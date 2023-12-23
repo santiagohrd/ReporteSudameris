@@ -15,5 +15,4 @@ Haciendo uso de PowerBi y una base de datos en .CSV se concreta un reporte inter
 
 ![image](https://github.com/santiagohrd/ReporteSudameris/assets/96275927/87d5d74d-1498-4f89-bc2d-dad644e26271)
 
-Igualmente se relaciona otra posible visual de la información
-![image](https://github.com/santiagohrd/ReporteSudameris/assets/96275927/3bd32a4f-9673-44f8-939a-ce815b2d74ad)
+
